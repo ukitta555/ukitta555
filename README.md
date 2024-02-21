@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there!
+
+My name is Vlad. Here you will mostly see repositories with the solutions to online courses that I did and my uni assignments. Someday I won't be ashamed of the spaghetti code I wrote in personal projects, and will put them out as well...
+
+Anyhow, I hope you find the code that I wrote useful for your projects.
 
 <!--
 **ukitta555/ukitta555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- track views -->
+[![Vladyslav Nekriach profile views](https://u8views.com/api/v1/github/profiles/37906830/views/day-week-month-total-count.svg)](https://u8views.com/github/ukitta555)

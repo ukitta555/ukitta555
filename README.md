@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is Vlad. Here you will mostly see repositories with the solutions to online courses that I did and my uni assignments. Someday I won't be ashamed of the spaghetti code I wrote in personal projects, and will put them out as well...
+My name is Vlad. Here you will mostly see repositories with the solutions to online courses that I did and my uni assignments. I also have some spaghetti code I wrote for my personal projects that you can find here...
 
 Anyhow, I hope you find the code that I wrote useful for your projects.
 

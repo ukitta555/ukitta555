@@ -1,8 +1,6 @@
 ### Hi there!
 
-My name is Vlad. Here you will mostly see repositories with the solutions to online courses that I did and my uni assignments. I also have some spaghetti code I wrote for my personal projects that you can find here...
-
-Anyhow, I hope you find the code that I wrote useful for your projects.
+My name is Vlad. I'm doing a Master's degree at the University of Toronto. Currently learning Rust. Interested in blockchains and finance. Sometimes play guitar and hope to learn how to DJ.
 
 <!--
 **ukitta555/ukitta555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

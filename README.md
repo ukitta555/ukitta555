@@ -1,6 +1,6 @@
 ### Hi there!
 
-My name is Vlad. I'm doing a Master's degree at the University of Toronto. Currently learning Rust. Interested in blockchains and finance. Sometimes play guitar and hope to learn how to DJ.
+My name is Vlad. Learning Rust/Solidity & contributing to Sapience protocol. Interested in finance. Sometimes play guitar, read books and hope to learn how to DJ.
 
 <!--
 **ukitta555/ukitta555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
